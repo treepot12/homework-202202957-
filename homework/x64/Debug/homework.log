@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\user\Desktop\뻐꾸기\homework\main.c(169,12): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\user\Desktop\뻐꾸기\homework\main.c(171,12): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\user\Desktop\뻐꾸기\homework\main.c(173,12): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\user\Desktop\뻐꾸기\homework\main.c(175,12): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\user\Desktop\뻐꾸기\homework\main.c(177,12): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  homework.vcxproj -> C:\Users\user\Desktop\뻐꾸기\homework\x64\Debug\homework.exe
